@@ -9,10 +9,9 @@
                     <div class="bg-dotted-map px-4 d-flex align-items-center">
                         <div class="m-auto text-center">
                             <h1>
-                                ERC20 & ERC223 Smart Contracts<br> and DApps enabled blockchain,
-                                secured by Websites and Internet of Things
+                                Niobio Cash<br >A CRIPTOMOEDA GENUINAMENTE BRASILEIRA SEM PRÉ-MINERAÇÃO OU ICO. SERÃO MINERADAS 336 MILHÕES DE UNIDADES.
                             </h1>
-                            <a href="https://webchain.network/Webchain_white_paper.pdf" target="_blank" class="btn btn-dark-header">whitepaper</a>
+                            <a href="https://niobiocash.org/WhitePaper%20PT-BR.pdf" target="_blank" class="btn btn-dark-header">whitepaper</a>
                         </div>
                     </div>
                 </div>
@@ -21,9 +20,8 @@
         <section id="description">
             <SeparatorBanner data-aos="flip-up">
             <span>
-                Webchain is a transparent, egalitarian, ASIC-resistant and smart
-                contract compatible blockchain protocol, built to be mined via
-                websites and developed with the support of the community.
+                Webchain is a privacy, security and ASIC-resistant, built to be mined in CPU/GPU
+                and developed with the support of the community.
             </span>
             </SeparatorBanner>
         </section>
@@ -31,13 +29,12 @@
             <Division>
                 <template slot="title">
                     <span class="d-block" data-aos="zoom-out-left" data-aos-delay="200">
-                        Secure DApps from any device
+                        Title One
                     </span>
                 </template>
                 <template slot="content">
                     <p data-aos="zoom-out-left" data-aos-delay="300">
-                        With Webchain, It’s possible to use resources of Internet
-                        of Things or any device that can render JavaScript to mine.
+                        Description One
                     </p>
                 </template>
                 <template slot="image">
@@ -47,12 +44,13 @@
             <Division :is-reversed="true">
                 <template slot="title">
                     <span class="d-block" data-aos="zoom-out-right" data-aos-delay="200">
-                        Decentralized and ASIC-Resistant
+                        Title Two
                     </span>
                 </template>
                 <template slot="content">
                     <div data-aos="zoom-out-right" data-aos-delay="300">
                         <p>
+                            Description Two
                             ASICs are machines created for the sole purpose of cryptocurrency
                             mining while rapidly increasing the block difficulty over time;
                             turning mining for regular devices users unprofitable. Since ASIC
@@ -73,11 +71,12 @@
             <Division>
                 <template slot="title">
                     <span class="d-block" data-aos="zoom-out-left" data-aos-delay="200">
-                        Fair distribution. CPU minable
+                        Title Three
                     </span>
                 </template>
                 <template slot="content">
                     <p data-aos="zoom-out-left" data-aos-delay="300">
+                        Description Three
                         By making Webchain CPU mineable, we make sure that everyone can mine it.
                         Neither ASICs nor GPU miners will have big advantages over CPU miners.
                         We believe such distribution of coins is much more beneficial for the
@@ -91,11 +90,13 @@
             <Division :is-reversed="true">
                 <template slot="title">
                     <span class="d-block" data-aos="zoom-out-right" data-aos-delay="200">
-                        No ICO
+                       Title Four
+                       No ICO
                     </span>
                 </template>
                 <template slot="content">
                     <p data-aos="zoom-out-right" data-aos-delay="300">
+                        Description Four
                         Since this project is meant to be for everyone – not only for those
                         with deep pockets – we are holding no Initial Coin Offering.
                     </p>
@@ -107,11 +108,13 @@
             <Division>
                 <template slot="title">
                     <span class="d-block" data-aos="zoom-out-left" data-aos-delay="200">
+                        Title Five
                         Very fast transactions
                     </span>
                 </template>
                 <template slot="content">
                     <p data-aos="zoom-out-left" data-aos-delay="300">
+                        Description Five
                         Our on-chain transactions are among the fastest - only 10s. Adding
                         off-chain solutions will make them instant.
                     </p>
@@ -123,11 +126,13 @@
             <Division :is-reversed="true">
                 <template slot="title">
                     <span class="d-block" data-aos="zoom-out-right" data-aos-delay="200">
+                        Title 6
                         Transparent, botnet unfriendly
                     </span>
                 </template>
                 <template slot="content">
                     <p data-aos="zoom-out-right" data-aos-delay="300">
+                        Description 6
                         The transactions made on our blockchain are entirely public,
                         so Webchain won’t be a friendly place for botnet attackers
                         or any sort of harmful illegal activities.
