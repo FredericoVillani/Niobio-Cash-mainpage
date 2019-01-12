@@ -1,11 +1,11 @@
 {
   "name": "news",
   "version": "1.0.0",
-  "description": "Webchain - News",
+  "description": "Niobio Cash - News",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "ssh://git@gitlab.abchosting.org:2279/abc-hosting/cryptocurrencies/webchain/news.git"
+  "url": "ssh://git@gitlab.abchosting.org:2279/abc-hosting/cryptocurrencies/webchain/news.git"
   },
   "author": "",
   "license": "ISC",

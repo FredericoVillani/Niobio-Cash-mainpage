@@ -1,8 +1,8 @@
-Webchain - News
+Niobio  - News
 ===============
 
-This is a webchain landing page developed with a fresh [vue](https://vuejs.org/) and [symfony](https://symfony.com/).
- 
+This is a Niobio Cash landing page developed with a fresh [vue](https://vuejs.org/) and [symfony](https://symfony.com/) by webchain.
+
 Requirements
 ------------
 * PHP 7.1^ & Composer
